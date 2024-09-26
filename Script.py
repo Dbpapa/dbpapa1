@@ -32,14 +32,14 @@ Iᴅ = <code>{}</code>
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}
 
-Bʏ @Showtime"""
+Bʏ @Kal"""
 
     LOG_TEXT_P = """#NewUser
     
 Iᴅ - <code>{}</code>
 Nᴀᴍᴇ - {}
 
-Bʏ @Showtime"""
+Bʏ @Kal"""
 
     ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ,
@@ -266,7 +266,7 @@ Bʏ Kal</b>"""
 
     LOGO = """
 
-BOT WORKING PROPERLY THANKS EVIL 🔥"""
+BOT WORKING PROPERLY THANKS Kal 🔥"""
 
     #PLANS
 
