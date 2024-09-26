@@ -20,13 +20,13 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-PICS = (environ.get('PICS', 'https://graph.org/file/f6f67244ddff909a53b12.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://envs.sh/S0I.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/1f774a8adb603614fc385.mp4")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/3207ba97e1879873e54ac.jpg'))
 SUBSCRIPTIO = (environ.get('SUBSCRIPTION', 'https://graph.org/file/3207ba97e1879873e54ac.jpg')).split()
-CODE = (environ.get('CODE', 'https://graph.org/file/a68104693ac1f8e442110.png'))
-PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/a68104693ac1f8e442110.png')).split()
+CODE = (environ.get('CODE', 'https://envs.sh/S0T.jpg'))
+PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/S0T.jpg')).split()
 REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/1a2e64aee3d4d10edd930.jpg")).split() 
 
 #stream link shortner
