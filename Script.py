@@ -320,7 +320,16 @@ BOT WORKING PROPERLY THANKS Kal 🔥"""
  ❏ 190$  ➠    𝟷𝟸 Month
 
 Usdt Trc20 address ➩ <code>TCxuhzuBEpH1jFSpo3P2SDc4Q52aCfhMsL</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
- 
+
+For Indian Users
+
+ ❏ 80₹    ➠    𝟶𝟷 Month
+ ❏ 150₹   ➠    𝟶𝟸 Month
+ ❏ 400₹   ➠    𝟶𝟼 Month
+ ❏ 900₹   ➠    𝟷𝟸 Month
+
+🆔 ᴜᴘɪ ɪᴅ ➩ <code>nitishsehrawat0807@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
 🏷️ <a href='https://t.me/Kalmoviesking'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
